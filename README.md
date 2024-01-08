@@ -16,7 +16,7 @@ Welcome to the Hostel Management System (HMS), a comprehensive solution for cent
   <img src="/meal/Screenshot (16).png" alt="TicketMate Preview" width="400" height="200">
 </div>
   
-## ???? Technologies Used
+##  Technologies Used
 
 - **PHP:** A server-side scripting language used for building dynamic web pages and applications.
 
@@ -28,9 +28,9 @@ Welcome to the Hostel Management System (HMS), a comprehensive solution for cent
 
 - **MySQL:** A relational database management system used for storing and retrieving data efficiently.
 
-## ???? Getting Started
+##  Getting Started
 
-1. **Clone the repository:** `git clone https://github.com/your-username/hms.git`
+1. **Clone the repository:** `https://github.com/your-username/hms.git`
 2. **Navigate to the project directory:** `cd hms`
 3. **Set up the MySQL database and import the provided SQL schema.**
 4. **Configure the database connection in the PHP files.**
