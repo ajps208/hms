@@ -1,8 +1,8 @@
-# ???? HMS - Hostel Management System
+# HMS - Hostel Management System
 
 Welcome to the Hostel Management System (HMS), a comprehensive solution for centralized resident information management, efficient communication, and streamlined administrative tasks.
 
-## ???? Features
+##  Features
 
 - **Centralized Resident Information Management:** HMS provides a centralized system for managing resident information, contributing to a significant 20% improvement in data accuracy.
 
@@ -13,9 +13,7 @@ Welcome to the Hostel Management System (HMS), a comprehensive solution for cent
 ## 📷 Preview
 
 <div classname="d-flex flex-row">
-  <img src="/1.png" alt="TicketMate Preview" width="400" height="200">
-  <img src="/2.png" alt="TicketMate Preview" width="400" height="200">
-    <img src="/3.png" alt="TicketMate Preview" width="400" height="200">
+  <img src="/1.png" alt="TicketM<img src="/meal/Screenshot (16).png" alt="TicketMate Preview" width="400" height="200">
 
 </div>
 ## ???? Technologies Used
@@ -41,7 +39,7 @@ Welcome to the Hostel Management System (HMS), a comprehensive solution for cent
 
 1. **Access the HMS application through a web browser after setting up the server environment.**
 
-## ???? Contributing
+## Contributing
 
 Feel free to contribute to the development of HMS by following the guidelines in the CONTRIBUTING.md file.
 
