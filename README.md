@@ -14,8 +14,8 @@ Welcome to the Hostel Management System (HMS), a comprehensive solution for cent
 
 <div classname="d-flex flex-row">
   <img src="/1.png" alt="TicketM<img src="/meal/Screenshot (16).png" alt="TicketMate Preview" width="400" height="200">
-
-</div>
+</div
+  
 ## ???? Technologies Used
 
 - **PHP:** A server-side scripting language used for building dynamic web pages and applications.
