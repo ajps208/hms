@@ -13,7 +13,7 @@ Welcome to the Hostel Management System (HMS), a comprehensive solution for cent
 ## 📷 Preview
 
 <div classname="d-flex flex-row">
-  <img src="/1.png" alt="TicketM<img src="/meal/Screenshot (16).png" alt="TicketMate Preview" width="400" height="200">
+  <img src="/meal/Screenshot (16).png" alt="TicketMate Preview" width="400" height="200">
 </div>
   
 ## ???? Technologies Used
